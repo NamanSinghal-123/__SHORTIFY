@@ -1,1 +1,5 @@
-# __SHORTIFY
+<<<<<<< HEAD
+# shortify
+=======
+# _Shortify
+>>>>>>> origin/main
